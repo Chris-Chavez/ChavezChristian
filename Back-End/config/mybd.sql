@@ -10,3 +10,5 @@ create table AUTOS
     Color varchar(20),
     primary key(ID)
 );
+insert Autos(Modelo,Marca,Año,Color) values ('MODELO1','MARCA1',2020,'Rojo');
+insert Autos(Modelo,Marca,Año,Color) values ('MODELO2','MARCA2',2021,'Azul');
